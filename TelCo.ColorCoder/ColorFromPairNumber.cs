@@ -2,7 +2,7 @@
 
 namespace TelCo.ColorCoder
 {
-  partial class ColorPairUnitTest
+  partial class EvenCountColorCode
   {
     /// <summary>
     /// Given a pair number function returns the major and minor colors in that order
