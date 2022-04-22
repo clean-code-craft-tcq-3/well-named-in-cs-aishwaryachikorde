@@ -2,7 +2,7 @@
 
 namespace TelCo.ColorCoder
 {
-  partial class ColorPairUnitTest
+  partial class EvenCountColorCode
   {
     /// <summary>
     /// Given the two colors the function returns the pair number corresponding to them
